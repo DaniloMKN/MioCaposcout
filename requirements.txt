@@ -1,0 +1,5 @@
+streamlit
+langchain-google-genai>=1.0.1
+langchain-community
+duckduckgo-search
+google-generativeai>=0.5.2
